@@ -20,8 +20,11 @@
   },
   "homepage": "https://github.com/seanmcp/gqlets#readme",
   "dependencies": {
+    "@types/express-graphql": "^0.6.2",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
   },
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
